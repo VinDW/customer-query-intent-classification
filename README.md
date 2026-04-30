@@ -71,6 +71,27 @@ The models are evaluated using:
 - Confusion matrix
 - Cross-validation accuracy
 
+## Repository Navigation
+
+- [Project Report](report.md)
+- [Data Folder](data/)
+- [Notebooks Folder](notebooks/)
+- [Outputs Folder](outputs/)
+- [Models Folder](models/)
+- [Requirements File](requirements.txt)
+
+### Main Notebooks
+
+- [01 Data Creation and Cleaning](notebooks/01_data_creation_and_cleaning.ipynb)
+- [02 Exploratory Text Analysis](notebooks/02_exploratory_text_analysis.ipynb)
+- [03 Model Training](notebooks/03_model_training.ipynb)
+
+### Key Outputs
+
+- [Model Comparison Results](outputs/tables/model_comparison_results.csv)
+- [Example Predictions](outputs/tables/example_predictions.csv)
+- [Intent Distribution Plot](outputs/figures/intent_distribution.png)
+  
 ## Project Structure
 
 ```text
