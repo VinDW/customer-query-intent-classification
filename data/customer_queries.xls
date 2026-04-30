@@ -1,0 +1,361 @@
+query,intent,clean_query
+I submitted my claim last week but I have not received any feedback.,claim_enquiry,i submitted my claim last week but i have not received any feedback
+"Good day, I submitted my claim last week but I have not received any feedback.",claim_enquiry,good day i submitted my claim last week but i have not received any feedback
+"Hi, I submitted my claim last week but I have not received any feedback.",claim_enquiry,hi i submitted my claim last week but i have not received any feedback
+"Hello, I submitted my claim last week but I have not received any feedback.",claim_enquiry,hello i submitted my claim last week but i have not received any feedback
+"Please assist, I submitted my claim last week but I have not received any feedback.",claim_enquiry,please assist i submitted my claim last week but i have not received any feedback
+I need help. I submitted my claim last week but I have not received any feedback.,claim_enquiry,i need help i submitted my claim last week but i have not received any feedback
+Can you please check the status of my medical claim?,claim_enquiry,can you please check the status of my medical claim
+"Good day, Can you please check the status of my medical claim?",claim_enquiry,good day can you please check the status of my medical claim
+"Hi, Can you please check the status of my medical claim?",claim_enquiry,hi can you please check the status of my medical claim
+"Hello, Can you please check the status of my medical claim?",claim_enquiry,hello can you please check the status of my medical claim
+"Please assist, Can you please check the status of my medical claim?",claim_enquiry,please assist can you please check the status of my medical claim
+I need help. Can you please check the status of my medical claim?,claim_enquiry,i need help can you please check the status of my medical claim
+My claim was rejected and I do not understand why.,claim_enquiry,my claim was rejected and i do not understand why
+"Good day, My claim was rejected and I do not understand why.",claim_enquiry,good day my claim was rejected and i do not understand why
+"Hi, My claim was rejected and I do not understand why.",claim_enquiry,hi my claim was rejected and i do not understand why
+"Hello, My claim was rejected and I do not understand why.",claim_enquiry,hello my claim was rejected and i do not understand why
+"Please assist, My claim was rejected and I do not understand why.",claim_enquiry,please assist my claim was rejected and i do not understand why
+I need help. My claim was rejected and I do not understand why.,claim_enquiry,i need help my claim was rejected and i do not understand why
+I uploaded my claim documents yesterday. Has it been processed?,claim_enquiry,i uploaded my claim documents yesterday has it been processed
+"Good day, I uploaded my claim documents yesterday. Has it been processed?",claim_enquiry,good day i uploaded my claim documents yesterday has it been processed
+"Hi, I uploaded my claim documents yesterday. Has it been processed?",claim_enquiry,hi i uploaded my claim documents yesterday has it been processed
+"Hello, I uploaded my claim documents yesterday. Has it been processed?",claim_enquiry,hello i uploaded my claim documents yesterday has it been processed
+"Please assist, I uploaded my claim documents yesterday. Has it been processed?",claim_enquiry,please assist i uploaded my claim documents yesterday has it been processed
+I need help. I uploaded my claim documents yesterday. Has it been processed?,claim_enquiry,i need help i uploaded my claim documents yesterday has it been processed
+Please assist me with tracking my hospital claim.,claim_enquiry,please assist me with tracking my hospital claim
+"Good day, Please assist me with tracking my hospital claim.",claim_enquiry,good day please assist me with tracking my hospital claim
+"Hi, Please assist me with tracking my hospital claim.",claim_enquiry,hi please assist me with tracking my hospital claim
+"Hello, Please assist me with tracking my hospital claim.",claim_enquiry,hello please assist me with tracking my hospital claim
+"Please assist, Please assist me with tracking my hospital claim.",claim_enquiry,please assist please assist me with tracking my hospital claim
+I need help. Please assist me with tracking my hospital claim.,claim_enquiry,i need help please assist me with tracking my hospital claim
+I need help submitting a claim for my doctor's visit.,claim_enquiry,i need help submitting a claim for my doctor s visit
+"Good day, I need help submitting a claim for my doctor's visit.",claim_enquiry,good day i need help submitting a claim for my doctor s visit
+"Hi, I need help submitting a claim for my doctor's visit.",claim_enquiry,hi i need help submitting a claim for my doctor s visit
+"Hello, I need help submitting a claim for my doctor's visit.",claim_enquiry,hello i need help submitting a claim for my doctor s visit
+"Please assist, I need help submitting a claim for my doctor's visit.",claim_enquiry,please assist i need help submitting a claim for my doctor s visit
+I need help. I need help submitting a claim for my doctor's visit.,claim_enquiry,i need help i need help submitting a claim for my doctor s visit
+Why is my claim still pending after two weeks?,claim_enquiry,why is my claim still pending after two weeks
+"Good day, Why is my claim still pending after two weeks?",claim_enquiry,good day why is my claim still pending after two weeks
+"Hi, Why is my claim still pending after two weeks?",claim_enquiry,hi why is my claim still pending after two weeks
+"Hello, Why is my claim still pending after two weeks?",claim_enquiry,hello why is my claim still pending after two weeks
+"Please assist, Why is my claim still pending after two weeks?",claim_enquiry,please assist why is my claim still pending after two weeks
+I need help. Why is my claim still pending after two weeks?,claim_enquiry,i need help why is my claim still pending after two weeks
+I want to know whether my dental claim has been approved.,claim_enquiry,i want to know whether my dental claim has been approved
+"Good day, I want to know whether my dental claim has been approved.",claim_enquiry,good day i want to know whether my dental claim has been approved
+"Hi, I want to know whether my dental claim has been approved.",claim_enquiry,hi i want to know whether my dental claim has been approved
+"Hello, I want to know whether my dental claim has been approved.",claim_enquiry,hello i want to know whether my dental claim has been approved
+"Please assist, I want to know whether my dental claim has been approved.",claim_enquiry,please assist i want to know whether my dental claim has been approved
+I need help. I want to know whether my dental claim has been approved.,claim_enquiry,i need help i want to know whether my dental claim has been approved
+My pharmacy claim did not go through. Please advise.,claim_enquiry,my pharmacy claim did not go through please advise
+"Good day, My pharmacy claim did not go through. Please advise.",claim_enquiry,good day my pharmacy claim did not go through please advise
+"Hi, My pharmacy claim did not go through. Please advise.",claim_enquiry,hi my pharmacy claim did not go through please advise
+"Hello, My pharmacy claim did not go through. Please advise.",claim_enquiry,hello my pharmacy claim did not go through please advise
+"Please assist, My pharmacy claim did not go through. Please advise.",claim_enquiry,please assist my pharmacy claim did not go through please advise
+I need help. My pharmacy claim did not go through. Please advise.,claim_enquiry,i need help my pharmacy claim did not go through please advise
+Can someone explain the outcome of my claim assessment?,claim_enquiry,can someone explain the outcome of my claim assessment
+"Good day, Can someone explain the outcome of my claim assessment?",claim_enquiry,good day can someone explain the outcome of my claim assessment
+"Hi, Can someone explain the outcome of my claim assessment?",claim_enquiry,hi can someone explain the outcome of my claim assessment
+"Hello, Can someone explain the outcome of my claim assessment?",claim_enquiry,hello can someone explain the outcome of my claim assessment
+"Please assist, Can someone explain the outcome of my claim assessment?",claim_enquiry,please assist can someone explain the outcome of my claim assessment
+I need help. Can someone explain the outcome of my claim assessment?,claim_enquiry,i need help can someone explain the outcome of my claim assessment
+I want to update my contact details on my policy.,policy_update,i want to update my contact details on my policy
+"Good day, I want to update my contact details on my policy.",policy_update,good day i want to update my contact details on my policy
+"Hi, I want to update my contact details on my policy.",policy_update,hi i want to update my contact details on my policy
+"Hello, I want to update my contact details on my policy.",policy_update,hello i want to update my contact details on my policy
+"Please assist, I want to update my contact details on my policy.",policy_update,please assist i want to update my contact details on my policy
+I need help. I want to update my contact details on my policy.,policy_update,i need help i want to update my contact details on my policy
+Please change my residential address on the system.,policy_update,please change my residential address on the system
+"Good day, Please change my residential address on the system.",policy_update,good day please change my residential address on the system
+"Hi, Please change my residential address on the system.",policy_update,hi please change my residential address on the system
+"Hello, Please change my residential address on the system.",policy_update,hello please change my residential address on the system
+"Please assist, Please change my residential address on the system.",policy_update,please assist please change my residential address on the system
+I need help. Please change my residential address on the system.,policy_update,i need help please change my residential address on the system
+How do I add a dependent to my medical aid policy?,policy_update,how do i add a dependent to my medical aid policy
+"Good day, How do I add a dependent to my medical aid policy?",policy_update,good day how do i add a dependent to my medical aid policy
+"Hi, How do I add a dependent to my medical aid policy?",policy_update,hi how do i add a dependent to my medical aid policy
+"Hello, How do I add a dependent to my medical aid policy?",policy_update,hello how do i add a dependent to my medical aid policy
+"Please assist, How do I add a dependent to my medical aid policy?",policy_update,please assist how do i add a dependent to my medical aid policy
+I need help. How do I add a dependent to my medical aid policy?,policy_update,i need help how do i add a dependent to my medical aid policy
+I need to remove a beneficiary from my policy.,policy_update,i need to remove a beneficiary from my policy
+"Good day, I need to remove a beneficiary from my policy.",policy_update,good day i need to remove a beneficiary from my policy
+"Hi, I need to remove a beneficiary from my policy.",policy_update,hi i need to remove a beneficiary from my policy
+"Hello, I need to remove a beneficiary from my policy.",policy_update,hello i need to remove a beneficiary from my policy
+"Please assist, I need to remove a beneficiary from my policy.",policy_update,please assist i need to remove a beneficiary from my policy
+I need help. I need to remove a beneficiary from my policy.,policy_update,i need help i need to remove a beneficiary from my policy
+Can I update my banking details online?,policy_update,can i update my banking details online
+"Good day, Can I update my banking details online?",policy_update,good day can i update my banking details online
+"Hi, Can I update my banking details online?",policy_update,hi can i update my banking details online
+"Hello, Can I update my banking details online?",policy_update,hello can i update my banking details online
+"Please assist, Can I update my banking details online?",policy_update,please assist can i update my banking details online
+I need help. Can I update my banking details online?,policy_update,i need help can i update my banking details online
+Please help me change my surname after marriage.,policy_update,please help me change my surname after marriage
+"Good day, Please help me change my surname after marriage.",policy_update,good day please help me change my surname after marriage
+"Hi, Please help me change my surname after marriage.",policy_update,hi please help me change my surname after marriage
+"Hello, Please help me change my surname after marriage.",policy_update,hello please help me change my surname after marriage
+"Please assist, Please help me change my surname after marriage.",policy_update,please assist please help me change my surname after marriage
+I need help. Please help me change my surname after marriage.,policy_update,i need help please help me change my surname after marriage
+I want to update my email address and phone number.,policy_update,i want to update my email address and phone number
+"Good day, I want to update my email address and phone number.",policy_update,good day i want to update my email address and phone number
+"Hi, I want to update my email address and phone number.",policy_update,hi i want to update my email address and phone number
+"Hello, I want to update my email address and phone number.",policy_update,hello i want to update my email address and phone number
+"Please assist, I want to update my email address and phone number.",policy_update,please assist i want to update my email address and phone number
+I need help. I want to update my email address and phone number.,policy_update,i need help i want to update my email address and phone number
+How can I change my plan option for next year?,policy_update,how can i change my plan option for next year
+"Good day, How can I change my plan option for next year?",policy_update,good day how can i change my plan option for next year
+"Hi, How can I change my plan option for next year?",policy_update,hi how can i change my plan option for next year
+"Hello, How can I change my plan option for next year?",policy_update,hello how can i change my plan option for next year
+"Please assist, How can I change my plan option for next year?",policy_update,please assist how can i change my plan option for next year
+I need help. How can I change my plan option for next year?,policy_update,i need help how can i change my plan option for next year
+I need to update my employer details.,policy_update,i need to update my employer details
+"Good day, I need to update my employer details.",policy_update,good day i need to update my employer details
+"Hi, I need to update my employer details.",policy_update,hi i need to update my employer details
+"Hello, I need to update my employer details.",policy_update,hello i need to update my employer details
+"Please assist, I need to update my employer details.",policy_update,please assist i need to update my employer details
+I need help. I need to update my employer details.,policy_update,i need help i need to update my employer details
+Please assist me with correcting my personal information.,policy_update,please assist me with correcting my personal information
+"Good day, Please assist me with correcting my personal information.",policy_update,good day please assist me with correcting my personal information
+"Hi, Please assist me with correcting my personal information.",policy_update,hi please assist me with correcting my personal information
+"Hello, Please assist me with correcting my personal information.",policy_update,hello please assist me with correcting my personal information
+"Please assist, Please assist me with correcting my personal information.",policy_update,please assist please assist me with correcting my personal information
+I need help. Please assist me with correcting my personal information.,policy_update,i need help please assist me with correcting my personal information
+What benefits do I have for specialist consultations?,benefit_question,what benefits do i have for specialist consultations
+"Good day, What benefits do I have for specialist consultations?",benefit_question,good day what benefits do i have for specialist consultations
+"Hi, What benefits do I have for specialist consultations?",benefit_question,hi what benefits do i have for specialist consultations
+"Hello, What benefits do I have for specialist consultations?",benefit_question,hello what benefits do i have for specialist consultations
+"Please assist, What benefits do I have for specialist consultations?",benefit_question,please assist what benefits do i have for specialist consultations
+I need help. What benefits do I have for specialist consultations?,benefit_question,i need help what benefits do i have for specialist consultations
+Am I covered for physiotherapy sessions?,benefit_question,am i covered for physiotherapy sessions
+"Good day, Am I covered for physiotherapy sessions?",benefit_question,good day am i covered for physiotherapy sessions
+"Hi, Am I covered for physiotherapy sessions?",benefit_question,hi am i covered for physiotherapy sessions
+"Hello, Am I covered for physiotherapy sessions?",benefit_question,hello am i covered for physiotherapy sessions
+"Please assist, Am I covered for physiotherapy sessions?",benefit_question,please assist am i covered for physiotherapy sessions
+I need help. Am I covered for physiotherapy sessions?,benefit_question,i need help am i covered for physiotherapy sessions
+How many dental visits are covered by my plan?,benefit_question,how many dental visits are covered by my plan
+"Good day, How many dental visits are covered by my plan?",benefit_question,good day how many dental visits are covered by my plan
+"Hi, How many dental visits are covered by my plan?",benefit_question,hi how many dental visits are covered by my plan
+"Hello, How many dental visits are covered by my plan?",benefit_question,hello how many dental visits are covered by my plan
+"Please assist, How many dental visits are covered by my plan?",benefit_question,please assist how many dental visits are covered by my plan
+I need help. How many dental visits are covered by my plan?,benefit_question,i need help how many dental visits are covered by my plan
+Does my medical aid cover chronic medication?,benefit_question,does my medical aid cover chronic medication
+"Good day, Does my medical aid cover chronic medication?",benefit_question,good day does my medical aid cover chronic medication
+"Hi, Does my medical aid cover chronic medication?",benefit_question,hi does my medical aid cover chronic medication
+"Hello, Does my medical aid cover chronic medication?",benefit_question,hello does my medical aid cover chronic medication
+"Please assist, Does my medical aid cover chronic medication?",benefit_question,please assist does my medical aid cover chronic medication
+I need help. Does my medical aid cover chronic medication?,benefit_question,i need help does my medical aid cover chronic medication
+I want to know my available hospital benefits.,benefit_question,i want to know my available hospital benefits
+"Good day, I want to know my available hospital benefits.",benefit_question,good day i want to know my available hospital benefits
+"Hi, I want to know my available hospital benefits.",benefit_question,hi i want to know my available hospital benefits
+"Hello, I want to know my available hospital benefits.",benefit_question,hello i want to know my available hospital benefits
+"Please assist, I want to know my available hospital benefits.",benefit_question,please assist i want to know my available hospital benefits
+I need help. I want to know my available hospital benefits.,benefit_question,i need help i want to know my available hospital benefits
+What maternity benefits are included in my plan?,benefit_question,what maternity benefits are included in my plan
+"Good day, What maternity benefits are included in my plan?",benefit_question,good day what maternity benefits are included in my plan
+"Hi, What maternity benefits are included in my plan?",benefit_question,hi what maternity benefits are included in my plan
+"Hello, What maternity benefits are included in my plan?",benefit_question,hello what maternity benefits are included in my plan
+"Please assist, What maternity benefits are included in my plan?",benefit_question,please assist what maternity benefits are included in my plan
+I need help. What maternity benefits are included in my plan?,benefit_question,i need help what maternity benefits are included in my plan
+Does my plan cover mental health consultations?,benefit_question,does my plan cover mental health consultations
+"Good day, Does my plan cover mental health consultations?",benefit_question,good day does my plan cover mental health consultations
+"Hi, Does my plan cover mental health consultations?",benefit_question,hi does my plan cover mental health consultations
+"Hello, Does my plan cover mental health consultations?",benefit_question,hello does my plan cover mental health consultations
+"Please assist, Does my plan cover mental health consultations?",benefit_question,please assist does my plan cover mental health consultations
+I need help. Does my plan cover mental health consultations?,benefit_question,i need help does my plan cover mental health consultations
+How much day-to-day benefit do I have left?,benefit_question,how much day to day benefit do i have left
+"Good day, How much day-to-day benefit do I have left?",benefit_question,good day how much day to day benefit do i have left
+"Hi, How much day-to-day benefit do I have left?",benefit_question,hi how much day to day benefit do i have left
+"Hello, How much day-to-day benefit do I have left?",benefit_question,hello how much day to day benefit do i have left
+"Please assist, How much day-to-day benefit do I have left?",benefit_question,please assist how much day to day benefit do i have left
+I need help. How much day-to-day benefit do I have left?,benefit_question,i need help how much day to day benefit do i have left
+Are eye tests covered under my current plan?,benefit_question,are eye tests covered under my current plan
+"Good day, Are eye tests covered under my current plan?",benefit_question,good day are eye tests covered under my current plan
+"Hi, Are eye tests covered under my current plan?",benefit_question,hi are eye tests covered under my current plan
+"Hello, Are eye tests covered under my current plan?",benefit_question,hello are eye tests covered under my current plan
+"Please assist, Are eye tests covered under my current plan?",benefit_question,please assist are eye tests covered under my current plan
+I need help. Are eye tests covered under my current plan?,benefit_question,i need help are eye tests covered under my current plan
+Please explain my oncology benefit cover.,benefit_question,please explain my oncology benefit cover
+"Good day, Please explain my oncology benefit cover.",benefit_question,good day please explain my oncology benefit cover
+"Hi, Please explain my oncology benefit cover.",benefit_question,hi please explain my oncology benefit cover
+"Hello, Please explain my oncology benefit cover.",benefit_question,hello please explain my oncology benefit cover
+"Please assist, Please explain my oncology benefit cover.",benefit_question,please assist please explain my oncology benefit cover
+I need help. Please explain my oncology benefit cover.,benefit_question,i need help please explain my oncology benefit cover
+I am unhappy with the service I received from your call centre.,complaint,i am unhappy with the service i received from your call centre
+"Good day, I am unhappy with the service I received from your call centre.",complaint,good day i am unhappy with the service i received from your call centre
+"Hi, I am unhappy with the service I received from your call centre.",complaint,hi i am unhappy with the service i received from your call centre
+"Hello, I am unhappy with the service I received from your call centre.",complaint,hello i am unhappy with the service i received from your call centre
+"Please assist, I am unhappy with the service I received from your call centre.",complaint,please assist i am unhappy with the service i received from your call centre
+I need help. I am unhappy with the service I received from your call centre.,complaint,i need help i am unhappy with the service i received from your call centre
+I have been waiting too long for a response.,complaint,i have been waiting too long for a response
+"Good day, I have been waiting too long for a response.",complaint,good day i have been waiting too long for a response
+"Hi, I have been waiting too long for a response.",complaint,hi i have been waiting too long for a response
+"Hello, I have been waiting too long for a response.",complaint,hello i have been waiting too long for a response
+"Please assist, I have been waiting too long for a response.",complaint,please assist i have been waiting too long for a response
+I need help. I have been waiting too long for a response.,complaint,i need help i have been waiting too long for a response
+Your consultant gave me incorrect information.,complaint,your consultant gave me incorrect information
+"Good day, Your consultant gave me incorrect information.",complaint,good day your consultant gave me incorrect information
+"Hi, Your consultant gave me incorrect information.",complaint,hi your consultant gave me incorrect information
+"Hello, Your consultant gave me incorrect information.",complaint,hello your consultant gave me incorrect information
+"Please assist, Your consultant gave me incorrect information.",complaint,please assist your consultant gave me incorrect information
+I need help. Your consultant gave me incorrect information.,complaint,i need help your consultant gave me incorrect information
+I want to lodge a formal complaint about my claim.,complaint,i want to lodge a formal complaint about my claim
+"Good day, I want to lodge a formal complaint about my claim.",complaint,good day i want to lodge a formal complaint about my claim
+"Hi, I want to lodge a formal complaint about my claim.",complaint,hi i want to lodge a formal complaint about my claim
+"Hello, I want to lodge a formal complaint about my claim.",complaint,hello i want to lodge a formal complaint about my claim
+"Please assist, I want to lodge a formal complaint about my claim.",complaint,please assist i want to lodge a formal complaint about my claim
+I need help. I want to lodge a formal complaint about my claim.,complaint,i need help i want to lodge a formal complaint about my claim
+The service has been very disappointing.,complaint,the service has been very disappointing
+"Good day, The service has been very disappointing.",complaint,good day the service has been very disappointing
+"Hi, The service has been very disappointing.",complaint,hi the service has been very disappointing
+"Hello, The service has been very disappointing.",complaint,hello the service has been very disappointing
+"Please assist, The service has been very disappointing.",complaint,please assist the service has been very disappointing
+I need help. The service has been very disappointing.,complaint,i need help the service has been very disappointing
+Nobody has responded to my emails.,complaint,nobody has responded to my emails
+"Good day, Nobody has responded to my emails.",complaint,good day nobody has responded to my emails
+"Hi, Nobody has responded to my emails.",complaint,hi nobody has responded to my emails
+"Hello, Nobody has responded to my emails.",complaint,hello nobody has responded to my emails
+"Please assist, Nobody has responded to my emails.",complaint,please assist nobody has responded to my emails
+I need help. Nobody has responded to my emails.,complaint,i need help nobody has responded to my emails
+I was treated unfairly during my previous call.,complaint,i was treated unfairly during my previous call
+"Good day, I was treated unfairly during my previous call.",complaint,good day i was treated unfairly during my previous call
+"Hi, I was treated unfairly during my previous call.",complaint,hi i was treated unfairly during my previous call
+"Hello, I was treated unfairly during my previous call.",complaint,hello i was treated unfairly during my previous call
+"Please assist, I was treated unfairly during my previous call.",complaint,please assist i was treated unfairly during my previous call
+I need help. I was treated unfairly during my previous call.,complaint,i need help i was treated unfairly during my previous call
+I am frustrated because my issue is still unresolved.,complaint,i am frustrated because my issue is still unresolved
+"Good day, I am frustrated because my issue is still unresolved.",complaint,good day i am frustrated because my issue is still unresolved
+"Hi, I am frustrated because my issue is still unresolved.",complaint,hi i am frustrated because my issue is still unresolved
+"Hello, I am frustrated because my issue is still unresolved.",complaint,hello i am frustrated because my issue is still unresolved
+"Please assist, I am frustrated because my issue is still unresolved.",complaint,please assist i am frustrated because my issue is still unresolved
+I need help. I am frustrated because my issue is still unresolved.,complaint,i need help i am frustrated because my issue is still unresolved
+This delay is unacceptable and I need urgent feedback.,complaint,this delay is unacceptable and i need urgent feedback
+"Good day, This delay is unacceptable and I need urgent feedback.",complaint,good day this delay is unacceptable and i need urgent feedback
+"Hi, This delay is unacceptable and I need urgent feedback.",complaint,hi this delay is unacceptable and i need urgent feedback
+"Hello, This delay is unacceptable and I need urgent feedback.",complaint,hello this delay is unacceptable and i need urgent feedback
+"Please assist, This delay is unacceptable and I need urgent feedback.",complaint,please assist this delay is unacceptable and i need urgent feedback
+I need help. This delay is unacceptable and I need urgent feedback.,complaint,i need help this delay is unacceptable and i need urgent feedback
+I want to escalate this matter to management.,complaint,i want to escalate this matter to management
+"Good day, I want to escalate this matter to management.",complaint,good day i want to escalate this matter to management
+"Hi, I want to escalate this matter to management.",complaint,hi i want to escalate this matter to management
+"Hello, I want to escalate this matter to management.",complaint,hello i want to escalate this matter to management
+"Please assist, I want to escalate this matter to management.",complaint,please assist i want to escalate this matter to management
+I need help. I want to escalate this matter to management.,complaint,i need help i want to escalate this matter to management
+My debit order did not go through this month.,payment_issue,my debit order did not go through this month
+"Good day, My debit order did not go through this month.",payment_issue,good day my debit order did not go through this month
+"Hi, My debit order did not go through this month.",payment_issue,hi my debit order did not go through this month
+"Hello, My debit order did not go through this month.",payment_issue,hello my debit order did not go through this month
+"Please assist, My debit order did not go through this month.",payment_issue,please assist my debit order did not go through this month
+I need help. My debit order did not go through this month.,payment_issue,i need help my debit order did not go through this month
+Why was I charged twice for my monthly premium?,payment_issue,why was i charged twice for my monthly premium
+"Good day, Why was I charged twice for my monthly premium?",payment_issue,good day why was i charged twice for my monthly premium
+"Hi, Why was I charged twice for my monthly premium?",payment_issue,hi why was i charged twice for my monthly premium
+"Hello, Why was I charged twice for my monthly premium?",payment_issue,hello why was i charged twice for my monthly premium
+"Please assist, Why was I charged twice for my monthly premium?",payment_issue,please assist why was i charged twice for my monthly premium
+I need help. Why was I charged twice for my monthly premium?,payment_issue,i need help why was i charged twice for my monthly premium
+I need help with a failed payment.,payment_issue,i need help with a failed payment
+"Good day, I need help with a failed payment.",payment_issue,good day i need help with a failed payment
+"Hi, I need help with a failed payment.",payment_issue,hi i need help with a failed payment
+"Hello, I need help with a failed payment.",payment_issue,hello i need help with a failed payment
+"Please assist, I need help with a failed payment.",payment_issue,please assist i need help with a failed payment
+I need help. I need help with a failed payment.,payment_issue,i need help i need help with a failed payment
+My account shows that my premium is overdue.,payment_issue,my account shows that my premium is overdue
+"Good day, My account shows that my premium is overdue.",payment_issue,good day my account shows that my premium is overdue
+"Hi, My account shows that my premium is overdue.",payment_issue,hi my account shows that my premium is overdue
+"Hello, My account shows that my premium is overdue.",payment_issue,hello my account shows that my premium is overdue
+"Please assist, My account shows that my premium is overdue.",payment_issue,please assist my account shows that my premium is overdue
+I need help. My account shows that my premium is overdue.,payment_issue,i need help my account shows that my premium is overdue
+Please send me my latest payment statement.,payment_issue,please send me my latest payment statement
+"Good day, Please send me my latest payment statement.",payment_issue,good day please send me my latest payment statement
+"Hi, Please send me my latest payment statement.",payment_issue,hi please send me my latest payment statement
+"Hello, Please send me my latest payment statement.",payment_issue,hello please send me my latest payment statement
+"Please assist, Please send me my latest payment statement.",payment_issue,please assist please send me my latest payment statement
+I need help. Please send me my latest payment statement.,payment_issue,i need help please send me my latest payment statement
+I want to query the amount deducted from my bank account.,payment_issue,i want to query the amount deducted from my bank account
+"Good day, I want to query the amount deducted from my bank account.",payment_issue,good day i want to query the amount deducted from my bank account
+"Hi, I want to query the amount deducted from my bank account.",payment_issue,hi i want to query the amount deducted from my bank account
+"Hello, I want to query the amount deducted from my bank account.",payment_issue,hello i want to query the amount deducted from my bank account
+"Please assist, I want to query the amount deducted from my bank account.",payment_issue,please assist i want to query the amount deducted from my bank account
+I need help. I want to query the amount deducted from my bank account.,payment_issue,i need help i want to query the amount deducted from my bank account
+How do I make a manual payment?,payment_issue,how do i make a manual payment
+"Good day, How do I make a manual payment?",payment_issue,good day how do i make a manual payment
+"Hi, How do I make a manual payment?",payment_issue,hi how do i make a manual payment
+"Hello, How do I make a manual payment?",payment_issue,hello how do i make a manual payment
+"Please assist, How do I make a manual payment?",payment_issue,please assist how do i make a manual payment
+I need help. How do I make a manual payment?,payment_issue,i need help how do i make a manual payment
+My payment is not reflecting on my profile.,payment_issue,my payment is not reflecting on my profile
+"Good day, My payment is not reflecting on my profile.",payment_issue,good day my payment is not reflecting on my profile
+"Hi, My payment is not reflecting on my profile.",payment_issue,hi my payment is not reflecting on my profile
+"Hello, My payment is not reflecting on my profile.",payment_issue,hello my payment is not reflecting on my profile
+"Please assist, My payment is not reflecting on my profile.",payment_issue,please assist my payment is not reflecting on my profile
+I need help. My payment is not reflecting on my profile.,payment_issue,i need help my payment is not reflecting on my profile
+Can you confirm whether my premium has been received?,payment_issue,can you confirm whether my premium has been received
+"Good day, Can you confirm whether my premium has been received?",payment_issue,good day can you confirm whether my premium has been received
+"Hi, Can you confirm whether my premium has been received?",payment_issue,hi can you confirm whether my premium has been received
+"Hello, Can you confirm whether my premium has been received?",payment_issue,hello can you confirm whether my premium has been received
+"Please assist, Can you confirm whether my premium has been received?",payment_issue,please assist can you confirm whether my premium has been received
+I need help. Can you confirm whether my premium has been received?,payment_issue,i need help can you confirm whether my premium has been received
+I need assistance with updating my debit order date.,payment_issue,i need assistance with updating my debit order date
+"Good day, I need assistance with updating my debit order date.",payment_issue,good day i need assistance with updating my debit order date
+"Hi, I need assistance with updating my debit order date.",payment_issue,hi i need assistance with updating my debit order date
+"Hello, I need assistance with updating my debit order date.",payment_issue,hello i need assistance with updating my debit order date
+"Please assist, I need assistance with updating my debit order date.",payment_issue,please assist i need assistance with updating my debit order date
+I need help. I need assistance with updating my debit order date.,payment_issue,i need help i need assistance with updating my debit order date
+Where can I find the nearest branch?,general_information,where can i find the nearest branch
+"Good day, Where can I find the nearest branch?",general_information,good day where can i find the nearest branch
+"Hi, Where can I find the nearest branch?",general_information,hi where can i find the nearest branch
+"Hello, Where can I find the nearest branch?",general_information,hello where can i find the nearest branch
+"Please assist, Where can I find the nearest branch?",general_information,please assist where can i find the nearest branch
+I need help. Where can I find the nearest branch?,general_information,i need help where can i find the nearest branch
+What are your operating hours?,general_information,what are your operating hours
+"Good day, What are your operating hours?",general_information,good day what are your operating hours
+"Hi, What are your operating hours?",general_information,hi what are your operating hours
+"Hello, What are your operating hours?",general_information,hello what are your operating hours
+"Please assist, What are your operating hours?",general_information,please assist what are your operating hours
+I need help. What are your operating hours?,general_information,i need help what are your operating hours
+How do I contact customer support?,general_information,how do i contact customer support
+"Good day, How do I contact customer support?",general_information,good day how do i contact customer support
+"Hi, How do I contact customer support?",general_information,hi how do i contact customer support
+"Hello, How do I contact customer support?",general_information,hello how do i contact customer support
+"Please assist, How do I contact customer support?",general_information,please assist how do i contact customer support
+I need help. How do I contact customer support?,general_information,i need help how do i contact customer support
+Can you send me information about your medical aid plans?,general_information,can you send me information about your medical aid plans
+"Good day, Can you send me information about your medical aid plans?",general_information,good day can you send me information about your medical aid plans
+"Hi, Can you send me information about your medical aid plans?",general_information,hi can you send me information about your medical aid plans
+"Hello, Can you send me information about your medical aid plans?",general_information,hello can you send me information about your medical aid plans
+"Please assist, Can you send me information about your medical aid plans?",general_information,please assist can you send me information about your medical aid plans
+I need help. Can you send me information about your medical aid plans?,general_information,i need help can you send me information about your medical aid plans
+Where can I download the mobile app?,general_information,where can i download the mobile app
+"Good day, Where can I download the mobile app?",general_information,good day where can i download the mobile app
+"Hi, Where can I download the mobile app?",general_information,hi where can i download the mobile app
+"Hello, Where can I download the mobile app?",general_information,hello where can i download the mobile app
+"Please assist, Where can I download the mobile app?",general_information,please assist where can i download the mobile app
+I need help. Where can I download the mobile app?,general_information,i need help where can i download the mobile app
+How do I register for the online portal?,general_information,how do i register for the online portal
+"Good day, How do I register for the online portal?",general_information,good day how do i register for the online portal
+"Hi, How do I register for the online portal?",general_information,hi how do i register for the online portal
+"Hello, How do I register for the online portal?",general_information,hello how do i register for the online portal
+"Please assist, How do I register for the online portal?",general_information,please assist how do i register for the online portal
+I need help. How do I register for the online portal?,general_information,i need help how do i register for the online portal
+Please provide general information about your services.,general_information,please provide general information about your services
+"Good day, Please provide general information about your services.",general_information,good day please provide general information about your services
+"Hi, Please provide general information about your services.",general_information,hi please provide general information about your services
+"Hello, Please provide general information about your services.",general_information,hello please provide general information about your services
+"Please assist, Please provide general information about your services.",general_information,please assist please provide general information about your services
+I need help. Please provide general information about your services.,general_information,i need help please provide general information about your services
+Where can I find the list of network doctors?,general_information,where can i find the list of network doctors
+"Good day, Where can I find the list of network doctors?",general_information,good day where can i find the list of network doctors
+"Hi, Where can I find the list of network doctors?",general_information,hi where can i find the list of network doctors
+"Hello, Where can I find the list of network doctors?",general_information,hello where can i find the list of network doctors
+"Please assist, Where can I find the list of network doctors?",general_information,please assist where can i find the list of network doctors
+I need help. Where can I find the list of network doctors?,general_information,i need help where can i find the list of network doctors
+How do I speak to a consultant?,general_information,how do i speak to a consultant
+"Good day, How do I speak to a consultant?",general_information,good day how do i speak to a consultant
+"Hi, How do I speak to a consultant?",general_information,hi how do i speak to a consultant
+"Hello, How do I speak to a consultant?",general_information,hello how do i speak to a consultant
+"Please assist, How do I speak to a consultant?",general_information,please assist how do i speak to a consultant
+I need help. How do I speak to a consultant?,general_information,i need help how do i speak to a consultant
+Can I get information about the available products?,general_information,can i get information about the available products
+"Good day, Can I get information about the available products?",general_information,good day can i get information about the available products
+"Hi, Can I get information about the available products?",general_information,hi can i get information about the available products
+"Hello, Can I get information about the available products?",general_information,hello can i get information about the available products
+"Please assist, Can I get information about the available products?",general_information,please assist can i get information about the available products
+I need help. Can I get information about the available products?,general_information,i need help can i get information about the available products
