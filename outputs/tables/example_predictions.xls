@@ -1,0 +1,7 @@
+customer_query,predicted_intent
+I want to know if my claim has been approved.,claim_enquiry
+Please update my banking details.,policy_update
+What dental benefits are available on my plan?,benefit_question
+I am unhappy with the service I received.,complaint
+My debit order failed this month.,payment_issue
+How do I register on the mobile app?,general_information
